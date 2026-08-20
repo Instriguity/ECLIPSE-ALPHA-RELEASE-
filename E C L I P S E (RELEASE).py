@@ -1,3 +1,4 @@
+#FIRSTLY RUN pip install pygame IN CMD FOR IT TO WORK.
 import pygame
 import random
 import math
