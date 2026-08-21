@@ -1,4 +1,4 @@
-#FIRSTLY RUN pip install pygame IN CMD FOR IT TO WORK. USE Visual Studio Code OR ANY OTHER PYTHON RUNNER. 
+#FIRSTLY RUN pip install pygame IN CMD FOR IT TO WORK. USE Visual Studio Code OR ANY OTHER PYTHON RUNNER. Beatable in around ~10 mins or less if speedrunned.
 import pygame
 import random
 import math
