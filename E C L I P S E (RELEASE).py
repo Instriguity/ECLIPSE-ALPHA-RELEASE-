@@ -1,4 +1,4 @@
-#FIRSTLY RUN pip install pygame IN CMD FOR IT TO WORK.
+#FIRSTLY RUN pip install pygame IN CMD FOR IT TO WORK. USE Visual Studio Code OR ANY OTHER PYTHON RUNNER. 
 import pygame
 import random
 import math
